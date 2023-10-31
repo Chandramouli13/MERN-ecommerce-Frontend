@@ -2,7 +2,7 @@
 MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, CRUD operations and many features.
 
 Deployed on Vercel :
-e-commerce Live/Hosted link - https://mern-ecommerce-d85sstsz7-chandramouli13.vercel.app/
+🔥 https://mern-ecommerce-d85sstsz7-chandramouli13.vercel.app/
 
 🔥 Check my repo MERN E-Commerce for BACKEND Code and DEPLOYMENT
 
